@@ -2,10 +2,11 @@
 
 <ModMetaData>
 	<name>Vanometric Improvement Technology</name>
-	<author>Zacajo</author>
+	<author>Zoe</author>
 	<packageId>Zacajo.VanometricImprovementTechnology</packageId>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<description>Increases the power output of vanometric power cells with two new technologies.
 
@@ -30,12 +31,6 @@ Technologies Added:
 &lt;size=16&gt;VFE Power&lt;/size&gt;
 + Large Vanometric Power Cell output increases to 6000W and 12000W.
 + Small Vanometric Power Cell output increases to 1125W and 2250W.
-
-&lt;size=24&gt;Known Issues&lt;/size&gt;
-+ None known as of 2022.10.21.
-
-&lt;size=24&gt;Change Log&lt;/size&gt;
-+ v1.0: Initial release.
 </description>
 
 <loadAfter>
