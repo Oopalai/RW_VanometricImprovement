@@ -31,11 +31,21 @@ Technologies Added:
 &lt;size=16&gt;VFE Power&lt;/size&gt;
 + Large Vanometric Power Cell output increases to 6000W and 12000W.
 + Small Vanometric Power Cell output increases to 1125W and 2250W.
+
+&lt;size=16&gt;Archonexus Buildings Provide Power&lt;/size&gt;
++ Archonexus Core output increases to 15000W and 30000W. Wow.
++ Grand Archotech Structure output increases to 11250W and 22500W.
++ Major Archotech Structure output increases to 10000W and 20000W.
++ Archotech Tower output increases to 8750W and 17500W
+
 </description>
 
 <loadAfter>
 	<li>Ludeon.RimWorld.Royalty</li>
+	<li>Ludeon.RimWorld.Ideology</li>
 	<li>VanillaExpanded.VFEPower</li>
+	<li>SubPlusGre.Patch.ArchonexusPower</li>
+
 </loadAfter>
 	
 </ModMetaData>
